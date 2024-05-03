@@ -37,14 +37,14 @@ npm run dev
 
 # Screenshots 
 
-**Registration Page**
-![registration page](https://github.com/ExpoPythonist/GenuineCosts/blob/master/Registration.png)
-
 **Login Page**
-![login page](https://github.com/ExpoPythonist/GenuineCosts/blob/master/login.png)
+![login page](https://github.com/ExpoPythonist/Note/blob/master/Login.png)
 
-**Edit Account**
-![edit account](https://github.com/ExpoPythonist/GenuineCosts/blob/master/editaccount.png)
+**Home**
+![home page](https://github.com/ExpoPythonist/Note/blob/master/Home.png)
 
-**Income Page**
-![income](https://github.com/ExpoPythonist/GenuineCosts/blob/master/income.png)
+**Notes View**
+![Notes View](https://github.com/ExpoPythonist/Note/blob/master/Notes_view.png)
+
+**Note Delete**
+![Notes View](https://github.com/ExpoPythonist/Note/blob/master/Note_delete.png)
